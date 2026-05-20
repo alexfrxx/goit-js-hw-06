@@ -1,3 +1,3 @@
-# goit-js-hw-03
+# goit-js-hw-04
 
-Third JavaScript homework
+JavaScript homework
