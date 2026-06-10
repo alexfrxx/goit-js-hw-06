@@ -3,7 +3,7 @@
 class Storage {
   #items;
   constructor(arr) {
-    this.#items = arr.items;
+    this.#items = arr;
   }
 
   getItems() {
